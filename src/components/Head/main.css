@@ -1,0 +1,52 @@
+.head-inner {
+  display: flex;
+  align-items: center;
+}
+.nav-text {
+  width: 555px;
+  font-family: Philosopher;
+  font-size: 49px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #150c01;
+}
+.nav-p {
+  margin-top: 40px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #150c01;
+}
+.head-box {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+.nav-btn {
+  padding: 12px 25px;
+  border-radius: 5px;
+  background-color: #dc780b;
+  border: none;
+  color: aliceblue;
+}
+.nav-btn:hover{
+    background-color: aliceblue;
+    color: #dc780b;
+}
+.nav-item-btn {
+  padding: 12px 25px;
+  border-radius: 5px;
+  background-color: aliceblue;
+  border: none;
+  color: #dc780b;
+  margin-left: 30px;
+}
+.nav-item-btn:hover{
+    background-color: #dc780b;
+    color: aliceblue;
+}
