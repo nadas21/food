@@ -3,6 +3,7 @@ import { Header } from './components/Header'
 import {Head} from "./components/Head"
 import { Services } from './components/services'
 import { Main } from './components/main'
+import { Order } from './components/order'
 
 
 
@@ -15,7 +16,7 @@ function App() {
     <main>
       <Head/>
       <Services/>
-      <Main/>
+      <Order/>
     </main>
     </>
   )

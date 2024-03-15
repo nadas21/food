@@ -18,7 +18,6 @@ export const Main = () => {
                 also specialized equipment, Skills to manage Customers,
               </p>
             </div>
-            <div className="card">
                 <ul className="card-list">
                     <a href="#" className="card-img">
                         <img src={girl} alt="" />
@@ -27,6 +26,7 @@ export const Main = () => {
 
                     </li>
                 </ul>
+            <div className="card">
             </div>
           </div>
         </div>

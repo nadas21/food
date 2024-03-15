@@ -21,40 +21,31 @@
 .services-menu {
   display: flex;
   align-items: center;
-  margin-left: 50px;
-  margin-top: 30px;
 }
 .services-list {
-  margin-left: 100px;
-  margin-top: 12px;
+  width: 200px;
+  margin-left: 90px;
 }
-.services-list:nth-child(1) {
-  margin-left: 0px;
+.services-list:nth-child(1){
+  margin-left: 80px;
 }
 .services-img {
-  margin-left: 105px;
+  margin-left: 30px;
+  box-sizing: border-box;
 }
-.services-item-p {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0em;
+.services-p{
+  font-size: 16;
+  font-weight: 500;
+  line-height: 1.25;
   text-align: center;
-  width: 300px;
-  margin-top: 6px;
-  color: #150c01;
-}
-.services-item {
-  margin-top: 20px;
+  color: #505050;
 }
 .services-h4 {
-  font-family: Philosopher;
-  font-size: 25px;
-  font-weight: 700;
-  line-height: 24px;
-  letter-spacing: 0em;
+  font-size: 16;
+  font-weight: 500;
+  line-height: 1.25;
   text-align: center;
+  color: #505050;
 }
 
 

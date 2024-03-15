@@ -11,42 +11,70 @@ export const Services = () => {
         <div className="container">
           <div className="services-inner">
             <div className="box">
-              <p className="services-p">Features</p>
-              <h2 className="services-h2">Food with a New Passion</h2>
+              <p className="services-p">Xususiyatlari</p>
+              <h2 className="services-h2">Al-baraka Food qanday ishlaydi?</h2>
               <div className="services-menu">
                 <ul className="services-list">
                   <a href="#" className="services-img">
-                    <img src={uy} height={88} width={88} alt="" />
+                    <img
+                      src="https://cdn.growfood.pro/s1/vcp/62a96a91c9c49.svg?fmt=webp&quality=95"
+                      height={117}
+                      width={117}
+                      alt=""
+                    />
                   </a>
                   <li className="services-item">
-                    <h4 className="services-h4">Quality Food</h4>
-                    <p className="services-item-p">
-                      It can be a very secure path to earn good money and make
-                      you very successful creative entrepreneur.
+                    <p className="services-p">
+
                     </p>
+                    <h4 className="services-h4">
+                      Keling, KBZHU ni hisoblaylik va porsiya o'lchamlari
+                    </h4>
                   </li>
                 </ul>
                 <ul className="services-list">
                   <a href="#" className="services-img">
-                    <img src={eltivchu} height={88} width={88} alt="" />
+                    <img
+                      src="https://cdn.growfood.pro/s1/vcp/62a96a9963d86.svg?fmt=webp&quality=95"
+                      height={117}
+                      width={117}
+                      alt=""
+                    />
                   </a>
                   <li className="services-item">
-                    <h4 className="services-h4">Food Delivery</h4>
-                    <p className="services-item-p">
-                      It can be a very secure path to earn good money and make
-                      you very successful creative entrepreneur.
-                    </p>
+                    <h4 className="services-h4">
+                      Keling, mazali taom tayyorlaymiz va sog'lom taomlar
+                    </h4>
                   </li>
                 </ul>
                 <ul className="services-list">
                   <a href="#" className="services-img">
-                    <img src={smayil} height={88} width={88} alt="" />
+                    <img
+                      src="https://cdn.growfood.pro/s1/vcp/62a96aab79e9e.svg?fmt=webp&quality=95"
+                      height={117}
+                      width={117}
+                      alt=""
+                    />
                   </a>
                   <li className="services-item">
-                    <h4 className="services-h4">Super Taste</h4>
-                    <p className="services-item-p">
-                      It can be a very secure path to earn good money and make
-                      you very successful creative entrepreneur.
+                    <h4 className="services-h4">
+                      Biz qulay 2 soatlik intervalda bepul yetkazib beramiz
+                    </h4>
+                  </li>
+                </ul>
+                <ul className="services-list">
+                  <a href="#" className="services-img">
+                    <img
+                      src="https://cdn.growfood.pro/s1/vcp/62a96aa688c47.svg?fmt=webp&quality=95"
+                      height={117}
+                      width={117}
+                      alt=""
+                    />
+                  </a>
+                  <li className="services-item">
+                    <p className="sercices-p">
+                    Sizda bo'ladi shunchaki 
+                       isinish
                     </p>
                   </li>
                 </ul>
